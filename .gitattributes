@@ -9,3 +9,5 @@
 *.txt text eol=lf
 *.json text eol=lf
 *.php text eol=lf
+Dockerfile text eof=LF
+container_start text eof=LF
